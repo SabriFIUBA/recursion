@@ -1,2 +1,2 @@
 # recursion
-R.cursive algorithms
+Recursive algorithms
